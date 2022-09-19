@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">trabalho</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="nome">Nome</string>
+    <string name="cadastro">cadastro</string>
+    <string name="e_mail">E-mail</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="homem">homem</string>
+    <string name="mulher">mulher</string>
+    <string-array name="sports_array">
+        <item>Shuttle Badminton</item>
+        <item>Tennis</item>
+        <item>FootBall</item>
+        <item>Basket Ball</item>
+        <item>Table Tennis</item>
+        <item>Chess</item>
+        <item>Hockey</item>
+    </string-array>
+
+</resources>
